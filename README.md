@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am an Machine Learning and Artificial Intelligence enthusiast
+I am currently learning Reinforcement Learning
+
 <!--
 **darshanmakwana412/darshanmakwana412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
