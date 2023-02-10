@@ -2,7 +2,9 @@
 
 Hi I am a sophomore from IIT Bombay
 
-My current Interests lie in Deep Learning and Reinforcement learning
+My current Interests lie in Deep Learning and Reinforcement learning. I also take part in Machine Learning hackathons and sometimes CP contests. Recently I have started playing basketball with my friends
+
+Thanks for the love
 
    <p align="left">
       <a href="https://github.com/darshanmakwana412?tab=followers">
