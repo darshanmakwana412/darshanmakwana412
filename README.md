@@ -1,6 +1,7 @@
 # 🏄‍♂️ Darshan Makwana
 
 Hi I am a sophomore from IIT Bombay
+
 My current Interests lie in Deep Learning and Reinforcement learning
 
    <p align="left">
