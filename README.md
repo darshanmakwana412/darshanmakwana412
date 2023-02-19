@@ -2,7 +2,7 @@
 
 Hi I am a sophomore from IIT Bombay
 
-My current Interests lie in Deep Learning and Reinforcement learning. I also take part in Machine Learning hackathons and sometimes CP contests. Recently I have started playing basketball with my friends (Thank you for the unconditional love from all of you)
+My current Interests lie in Deep Learning and Reinforcement learning. I also take part in Machine Learning hackathons and sometimes CP contests. Recently I have started playing basketball with my friends (Thank you for the unconditional and passionate love from all of you)
 
 Thank you for your love that helped me draw the line between balance and obsession
 
