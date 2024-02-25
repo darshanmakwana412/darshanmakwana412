@@ -1,8 +1,6 @@
-# 🏄‍♂️ Darshan Makwana
+# 🏄‍♂ Who am I?
 
-Hi I am a sophomore from IIT Bombay
-
-My current Interests lie in Deep Learning and Reinforcement learning. I have vivid passions ranging from origami to reading about classical physics, it is because of these passions that you will find me entangled in a lot of decisions of my life that would seem naive to the heuristic mind but I can assure you that they all turn out to be absolutely great for me. Recently I have started playing basketball with my friends (Thank you for the unconditional and passionate love from all of you that helped me draw the line between balance and obsession). I want to pursue research in machine learning to make this world a better place for everyone to live in together
+My name is Darshan Makwana, I am a third year UG student at IIT Bombay. My interests range from origami to machine learning. I try to apply Bellman Equations for the optimization of my life, which is a Markov decision process, but the future discount factor in the equation might be small and you will often find me trapped in local optimums
 
    <p align="left">
       <a href="https://github.com/darshanmakwana412?tab=followers">
